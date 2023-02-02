@@ -83,22 +83,22 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
+      name: Summer Mobile Developer,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "May 2022 - Aug 2022",
+      organization: "Troo Corp",
     }
   - {
-      name: UX & UI Designer,
+      name: Summer Mobile Developer,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "May 2021 - Aug 2021",
+      organization: "Troo Corp",
     }
   - {
-      name: Senior UI Designer,
+      name: Store Associate,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "July 2020 - May 2021",
+      organization: "Winners",
     }
 
 #-------------------------------
@@ -107,24 +107,14 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: B.Sc. Honours in Computer Science,
+      date: "April 2023",
+      organization: "University of Saskatchewan",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
-    }
-  - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
-    }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
+      name: Bachiller Acad&eacute;mico,
+      date: "December 2017",
+      organization: "Liceo Segovia",
     }
 
 #-------------------------------
