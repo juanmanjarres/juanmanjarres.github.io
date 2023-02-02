@@ -12,24 +12,24 @@ VERSION:	Versoin Number
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
 
-@use 'variables';
+@import 'variables';
 
-@use 'mixins';
+@import 'mixins';
 
-@use 'typography';
+@import 'typography';
 
-@use 'buttons';
+@import 'buttons';
 
-@use 'common';
+@import 'common';
 
-@use 'templates/navigation';
+@import 'templates/navigation';
 
-@use 'templates/hero-area';
+@import 'templates/hero-area';
 
-@use 'templates/homepage';
+@import 'templates/homepage';
 
-@use 'templates/blog';
+@import 'templates/blog';
 
-@use 'templates/about';
+@import 'templates/about';
 
-@use 'templates/portfolio';
+@import 'templates/portfolio';
