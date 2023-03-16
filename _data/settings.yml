@@ -111,19 +111,19 @@ services:
   - {
       name: UI Design,
       icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Prototyped on Figma, understanding basic UI principles and design",
       active: ,# Add true to select section
     }
   - {
       name: Mobile Development,
-      icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      icon: ti-phone,
+      description: "Experience working for Troo as a Mobile Developer, with side projects on Android",
       active: true, # Add true to select section
     }
   - {
       name: Full Stack Development,
       icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Familiar with Javascript, HTML, node.js, MongoDB and other web technologies",
       active: ,# Add true to select section
     }
 
