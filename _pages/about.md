@@ -2,16 +2,11 @@
 layout: about
 title: About Me
 author: Juan Manjarres
-image: assets/images/about/author.jpg
+image: assets/images/about/portrait.jpeg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+My name is Juan Carlos Manjarres, I'm from Bogotá, Colombia and I'm currently finishing my Bachelor or Science degree
+in Computer Science from the University of Saskatchewan.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+I have experience using Flutter/Dart as a Mobile Developer for Troo Corp, as well using C++, Python, C and Linux
+throughout my undergraduate degree.

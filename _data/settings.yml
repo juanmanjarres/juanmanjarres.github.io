@@ -13,7 +13,6 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
   - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
 
@@ -50,8 +49,6 @@ social:
 blurb: I am currently in my last semester of Computer Science at the University of Saskatchewan, <br> I have a passion for technology and have worked as a Mobile Developer for the past two summers. Some of my other interests also include Human Computer Interaction, UI/UX design, and Operating Systems.
 blurb-btn-link: "/about"
 blurb-btn-name: know more
-
-# About Page
 
 #-------------------------------
 # Skills Section
@@ -116,7 +113,7 @@ services:
     }
   - {
       name: Mobile Development,
-      icon: ti-phone,
+      icon: ti-mobile,
       description: "Experience working for Troo as a Mobile Developer, with side projects on Android",
       active: true, # Add true to select section
     }
@@ -207,4 +204,4 @@ portfolio-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: juan.manjarres@usask.ca
