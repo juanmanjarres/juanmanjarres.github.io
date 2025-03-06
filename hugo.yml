@@ -1,0 +1,58 @@
+baseURL: "https://juanmanjarres.github.io/"
+languageCode: "en-CA"
+title: "Juan Manjarres"
+theme: "PaperMod"
+
+enableRobotsTXT: true
+enableEmoji: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: "About"
+          url: "/about"
+          weight: 2
+        - name: "Projects"
+          url: "/projects"
+          weight: 1
+      footer:
+        - name: "GitHub"
+          url: "github.com/juanmanjarres"
+        - name: "LinkedIn"
+          url: "linkedin.com/in/juan-manjarres"
+
+homeInfoParams:
+
+params:
+  mainSections:
+    - projects
+
+  profileMode:
+    enabled: false
+    title: Juan Manjarres
+    buttons:
+      - name: About
+        url: about
+      - name: Projects
+        url: projects
+
+  homeInfoParams:
+    title: "Hi! 👋 I'm Juan"
+    content: >
+      Software Developer
+
+  socialIcons:
+    - name: "github"
+      title: "Juan's GitHub"
+      url: "https://www.github.com/juanmanjarres"
+    - name: "linkedin"
+      title: "Juan's LinkedIn"
+      url: "https://www.linkedin.com/in/juan-manjarres"
+    - name: "email"
+      title: "Juan's Email"
+      url: "mailto:juan.manjarres@proton.me"
+
+  customCSS: ["assets/main.css"]
