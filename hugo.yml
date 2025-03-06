@@ -24,9 +24,8 @@ languages:
         - name: "LinkedIn"
           url: "linkedin.com/in/juan-manjarres"
 
-homeInfoParams:
-
 params:
+  env: "production"
   mainSections:
     - projects
 
@@ -43,6 +42,10 @@ params:
     title: "Hi! 👋 I'm Juan"
     content: >
       Software Developer
+
+  analytics:
+    google:
+      SiteVerificationTag: "G-JQMCQ7Z9K6"
 
   socialIcons:
     - name: "github"
