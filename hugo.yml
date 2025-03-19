@@ -54,8 +54,5 @@ params:
     - name: "linkedin"
       title: "Juan's LinkedIn"
       url: "https://www.linkedin.com/in/juan-manjarres"
-    - name: "email"
-      title: "Juan's Email"
-      url: "mailto:juan.manjarres@proton.me"
 
   customCSS: ["assets/main.css"]
