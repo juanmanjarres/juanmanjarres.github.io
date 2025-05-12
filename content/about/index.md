@@ -4,7 +4,7 @@ cover:
   image: "images/IMG_1111.jpg"
 ---
 
-Nice to meet you! I'm Juan, originally from Bogotá, Colombia 🇨🇴 and currently living in Saskatoon, Canada 🇨🇦. I'm working as a Junior Software Developer working for FarmTRX at Troo Corp.
+Nice to meet you! I'm Juan, a Software Developer originally from Bogotá, Colombia 🇨🇴 currently living in Saskatoon, Canada 🇨🇦. I've worked previously as a Junior Software Developer for FarmTRX at Troo Corp.
 
 I'm passionate about open source software, and I'm always looking for ways to incorporate it into my projects, as well as contributing to the community! Currently, I use Flutter/Dart for mobile development, but I have also used JavaScript, TypeScript, node.js and SQL while working as a Full Stack Developer, as well as C++, Java, Python, C, Linux, Docker and other technologies throughout my undergraduate degree.
 
